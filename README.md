@@ -13,7 +13,7 @@
    ```shell
    pip install -r requirements.txt
    ```
-1. view.py を実行する
+1. streamlit で view.py を実行する
    ```shell
-   python view.py
+   streamlit run view.py
    ```
